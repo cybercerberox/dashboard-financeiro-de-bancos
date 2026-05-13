@@ -1,0 +1,301 @@
+cliente,empresa,valor,status,mes
+Ana 1,Nubank,"11252,48",Pago,Março
+Ana 2,XP Investimentos,"11239,68",Pago,Julho
+Maria 3,Nubank,"1858,58",Pago,Janeiro
+Roberto 4,PicPay,"10882,28",Pago,Julho
+Rafael 5,Banco do Brasil,"9044,35",Inadimplente,Janeiro
+Lucas 6,BTG Pactual,"6627,91",Pago,Abril
+Camila 7,Itaú,"1844,81",Pago,Junho
+Diego 8,Caixa,"12203,36",Pago,Fevereiro
+Patrícia 9,Itaú,"8504,59",Inadimplente,Junho
+Aline 10,PicPay,"10716,29",Pago,Abril
+Bruno 11,Itaú,"12902,11",Inadimplente,Julho
+Juliana 12,Banco do Brasil,"9717,42",Pago,Junho
+Ricardo 13,PicPay,"10217,54",Pago,Fevereiro
+Diego 14,XP Investimentos,"2981,51",Pago,Março
+Amanda 15,Inter,"4414,24",Inadimplente,Abril
+Camila 16,Nubank,"3821,2",Pago,Junho
+Patrícia 17,Caixa,"1459,73",Inadimplente,Junho
+Fernanda 18,XP Investimentos,"7738,85",Inadimplente,Agosto
+Pedro 19,Caixa,"2524,64",Pago,Maio
+Aline 20,Inter,"13518,43",Pago,Abril
+Pedro 21,C6 Bank,"7655,98",Inadimplente,Fevereiro
+Pedro 22,XP Investimentos,"2819,74",Pago,Fevereiro
+Patrícia 23,Inter,"9140,38",Pago,Maio
+Roberto 24,Nubank,"10364,11",Pago,Maio
+Camila 25,Itaú,"4755,75",Pago,Janeiro
+Juliana 26,C6 Bank,"11548,45",Pago,Fevereiro
+Bruno 27,XP Investimentos,"7861,11",Pago,Junho
+Lucas 28,C6 Bank,"14325,75",Inadimplente,Janeiro
+Diego 29,Bradesco,"7584,78",Pago,Junho
+Bruno 30,PicPay,"1339,91",Inadimplente,Fevereiro
+Carlos 31,BTG Pactual,"7546,86",Pago,Março
+Pedro 32,XP Investimentos,"7391,59",Pago,Maio
+Larissa 33,Mercado Pago,"6635,5",Pago,Abril
+Bruno 34,Inter,"14929,67",Pago,Agosto
+Larissa 35,Banco do Brasil,"2254,56",Pago,Junho
+João 36,Mercado Pago,"8531,86",Pago,Janeiro
+Carlos 37,BTG Pactual,"9650,99",Pago,Janeiro
+Camila 38,Itaú,"7955,26",Pago,Agosto
+Fernanda 39,C6 Bank,"2418,52",Inadimplente,Agosto
+Rafael 40,Banco do Brasil,"12208,71",Pago,Fevereiro
+Gustavo 41,Bradesco,"6641,89",Pago,Janeiro
+Ana 42,Nubank,"6338,01",Pago,Fevereiro
+Rafael 43,PicPay,"3258,03",Pago,Julho
+Lucas 44,Caixa,"7208,11",Inadimplente,Fevereiro
+Amanda 45,C6 Bank,"1919,68",Pago,Janeiro
+Carlos 46,PicPay,"2911,51",Pago,Abril
+Patrícia 47,Nubank,"2887,24",Pago,Julho
+Juliana 48,Banco do Brasil,"4636,11",Pago,Agosto
+Pedro 49,PicPay,"4802,26",Inadimplente,Janeiro
+Camila 50,Nubank,"1227,06",Pago,Março
+Maria 51,C6 Bank,"1661,62",Pago,Fevereiro
+Rafael 52,Inter,"2238,36",Inadimplente,Abril
+Aline 53,Mercado Pago,"1076,25",Pago,Junho
+Juliana 54,PicPay,"10211,03",Pago,Maio
+Patrícia 55,Santander,"10239,51",Pago,Junho
+Carlos 56,Nubank,"7145,14",Inadimplente,Fevereiro
+Carlos 57,C6 Bank,"3590,74",Pago,Junho
+Carlos 58,PicPay,"5858,14",Pago,Maio
+Diego 59,XP Investimentos,"8169,64",Pago,Maio
+Ana 60,Santander,"4334,76",Inadimplente,Março
+Juliana 61,Caixa,"9270,03",Pago,Abril
+Juliana 62,C6 Bank,"7583,71",Inadimplente,Janeiro
+Carlos 63,XP Investimentos,"6641,85",Pago,Janeiro
+Camila 64,Santander,"9738,14",Pago,Agosto
+Roberto 65,BTG Pactual,"6701,46",Pago,Fevereiro
+Pedro 66,C6 Bank,"1022,41",Pago,Março
+Gustavo 67,Santander,"1106,52",Pago,Janeiro
+Ricardo 68,PicPay,"10389,97",Pago,Junho
+Roberto 69,Inter,"14620,64",Pago,Abril
+Lucas 70,Santander,"13280,53",Pago,Junho
+Gustavo 71,XP Investimentos,"13028,93",Inadimplente,Maio
+Lucas 72,BTG Pactual,"2067,39",Inadimplente,Agosto
+Rafael 73,PicPay,"12340,51",Pago,Maio
+Rafael 74,PicPay,"843,13",Pago,Junho
+Juliana 75,Itaú,"14519,89",Pago,Julho
+Roberto 76,Bradesco,"14118,94",Pago,Maio
+Lucas 77,Mercado Pago,"14456,75",Pago,Fevereiro
+Diego 78,Inter,"5512,46",Inadimplente,Julho
+Diego 79,C6 Bank,"2176,86",Inadimplente,Abril
+Juliana 80,Nubank,"10777,39",Pago,Abril
+Ricardo 81,Inter,"1514,62",Pago,Junho
+Diego 82,Bradesco,"10119,12",Pago,Maio
+Larissa 83,Caixa,"10169,95",Pago,Maio
+Roberto 84,Santander,"3281,68",Pago,Julho
+Lucas 85,Mercado Pago,"8752,03",Pago,Janeiro
+Bruno 86,Caixa,"3547,65",Inadimplente,Junho
+Amanda 87,Banco do Brasil,"6911,32",Pago,Agosto
+Lucas 88,XP Investimentos,"1729,54",Pago,Junho
+Carlos 89,PicPay,"10255,54",Pago,Abril
+Pedro 90,Nubank,"1170,1",Inadimplente,Fevereiro
+Amanda 91,Inter,"13348,99",Pago,Julho
+Felipe 92,Inter,"4037,77",Pago,Janeiro
+Ana 93,Inter,"3673,2",Inadimplente,Agosto
+Maria 94,C6 Bank,"4113,38",Inadimplente,Agosto
+Pedro 95,Banco do Brasil,"10179,88",Inadimplente,Junho
+Amanda 96,Mercado Pago,"12317,59",Inadimplente,Julho
+Roberto 97,Banco do Brasil,"13509,52",Pago,Agosto
+Amanda 98,Caixa,"11400,76",Inadimplente,Maio
+Larissa 99,Banco do Brasil,"9587,85",Pago,Fevereiro
+Bruno 100,PicPay,"4439,87",Pago,Fevereiro
+Pedro 101,Santander,"3853,29",Pago,Abril
+Carlos 102,Inter,"6410,19",Pago,Julho
+Maria 103,PicPay,"12576,92",Pago,Janeiro
+Aline 104,Inter,"7416,21",Inadimplente,Maio
+Patrícia 105,Inter,"8304,2",Pago,Abril
+Felipe 106,PicPay,"4457,56",Pago,Julho
+Camila 107,XP Investimentos,"10347,56",Pago,Março
+Amanda 108,Santander,"14720,47",Pago,Julho
+Aline 109,Mercado Pago,"10113,5",Pago,Julho
+Pedro 110,Banco do Brasil,"3135,07",Pago,Junho
+Fernanda 111,Banco do Brasil,"5239,26",Inadimplente,Julho
+Juliana 112,Inter,"4157,94",Pago,Janeiro
+Roberto 113,Nubank,"14998,66",Pago,Fevereiro
+Maria 114,Nubank,"14269,37",Pago,Janeiro
+Diego 115,Santander,"3958,9",Pago,Fevereiro
+Aline 116,PicPay,"7242,99",Pago,Junho
+Lucas 117,Mercado Pago,"9305,09",Pago,Fevereiro
+Lucas 118,Caixa,"2067,43",Pago,Maio
+Aline 119,XP Investimentos,"13666,38",Pago,Abril
+Carlos 120,Mercado Pago,"10513,91",Pago,Fevereiro
+Bruno 121,XP Investimentos,"9205,97",Pago,Janeiro
+Ricardo 122,C6 Bank,"6711,48",Pago,Junho
+João 123,Inter,"12423,8",Pago,Junho
+Amanda 124,BTG Pactual,"2718,37",Pago,Maio
+Diego 125,C6 Bank,"11732,3",Pago,Maio
+Camila 126,PicPay,"12545,6",Pago,Agosto
+Rafael 127,Banco do Brasil,"8762,82",Pago,Junho
+João 128,Banco do Brasil,"12838,82",Pago,Abril
+Ricardo 129,Caixa,"5434,91",Inadimplente,Maio
+Roberto 130,Nubank,"7991,1",Pago,Abril
+Gustavo 131,Banco do Brasil,"8550,06",Pago,Agosto
+Felipe 132,Banco do Brasil,"11997,53",Pago,Abril
+Patrícia 133,BTG Pactual,"4027,92",Pago,Junho
+Felipe 134,C6 Bank,"8198,37",Pago,Junho
+Ricardo 135,BTG Pactual,"7079,31",Pago,Abril
+Ana 136,BTG Pactual,"3292,47",Pago,Março
+Fernanda 137,PicPay,"11209,77",Pago,Maio
+Ana 138,PicPay,"4795,57",Pago,Maio
+João 139,BTG Pactual,"8244,96",Pago,Janeiro
+Roberto 140,Caixa,"10612,55",Pago,Agosto
+Ana 141,Nubank,"8823,93",Pago,Agosto
+Camila 142,Santander,"14499,72",Pago,Agosto
+Ana 143,Itaú,"6310,26",Pago,Janeiro
+Pedro 144,Santander,"12261,56",Inadimplente,Fevereiro
+Rafael 145,Itaú,"8592,06",Pago,Abril
+Larissa 146,Inter,"7032,46",Pago,Julho
+Bruno 147,Mercado Pago,"9504,9",Pago,Fevereiro
+Fernanda 148,XP Investimentos,"3559,87",Pago,Março
+Rafael 149,Santander,"8503,89",Pago,Julho
+Amanda 150,BTG Pactual,"9110,26",Pago,Abril
+Bruno 151,BTG Pactual,"4599,42",Inadimplente,Fevereiro
+Rafael 152,Caixa,"11923,51",Pago,Abril
+Gustavo 153,Itaú,"8396,15",Pago,Maio
+Pedro 154,Itaú,"1364,75",Inadimplente,Maio
+Amanda 155,Itaú,"7296,12",Pago,Julho
+Juliana 156,C6 Bank,"8329,73",Pago,Janeiro
+Gustavo 157,BTG Pactual,"5173,66",Pago,Fevereiro
+Rafael 158,XP Investimentos,"12621,4",Pago,Janeiro
+Juliana 159,Mercado Pago,"1083,36",Inadimplente,Agosto
+Larissa 160,XP Investimentos,"6912,33",Pago,Julho
+Felipe 161,Itaú,"7315,15",Pago,Junho
+Ana 162,Santander,"5282,15",Pago,Maio
+Patrícia 163,C6 Bank,"1032,11",Pago,Maio
+Camila 164,Itaú,"14567,68",Pago,Janeiro
+Roberto 165,Banco do Brasil,"6492,09",Pago,Junho
+Diego 166,Banco do Brasil,"9568,43",Inadimplente,Abril
+Juliana 167,C6 Bank,"2399,69",Pago,Agosto
+Ana 168,Nubank,"14610,63",Pago,Abril
+Lucas 169,Caixa,"8487,17",Pago,Fevereiro
+Rafael 170,Itaú,"7190,99",Pago,Março
+Felipe 171,BTG Pactual,"4731,99",Pago,Julho
+Felipe 172,Banco do Brasil,"4034,1",Pago,Julho
+Fernanda 173,Mercado Pago,"7869,49",Inadimplente,Fevereiro
+Juliana 174,Inter,"5428,19",Inadimplente,Maio
+João 175,Caixa,"11027,74",Inadimplente,Agosto
+Pedro 176,Banco do Brasil,"8309,42",Pago,Julho
+Amanda 177,Bradesco,"13109,22",Inadimplente,Abril
+Aline 178,Inter,"3886,66",Inadimplente,Janeiro
+Camila 179,BTG Pactual,"7358,16",Inadimplente,Julho
+Patrícia 180,XP Investimentos,"11989,71",Pago,Março
+Felipe 181,Nubank,"2330,57",Inadimplente,Junho
+Ana 182,Banco do Brasil,"1945,82",Inadimplente,Janeiro
+Pedro 183,Inter,"13128,53",Inadimplente,Fevereiro
+Felipe 184,Caixa,"5409,14",Pago,Fevereiro
+Camila 185,XP Investimentos,"12960,46",Pago,Junho
+Felipe 186,C6 Bank,"1020,54",Pago,Maio
+Rafael 187,BTG Pactual,"1810,5",Inadimplente,Fevereiro
+Amanda 188,Santander,"10563,02",Inadimplente,Janeiro
+Camila 189,Nubank,"4753,83",Pago,Março
+Rafael 190,C6 Bank,"6474,75",Pago,Março
+Lucas 191,Santander,"1645,04",Inadimplente,Abril
+Felipe 192,Mercado Pago,"2575,21",Pago,Maio
+Amanda 193,Caixa,"10169,19",Inadimplente,Agosto
+Bruno 194,XP Investimentos,"8425,67",Pago,Junho
+Aline 195,Caixa,"9764,61",Pago,Maio
+Amanda 196,Caixa,"3388,65",Pago,Agosto
+Ana 197,PicPay,"6029,78",Pago,Maio
+Bruno 198,Nubank,"14680,2",Pago,Maio
+João 199,Mercado Pago,"13043,48",Inadimplente,Janeiro
+Diego 200,BTG Pactual,"7702,55",Inadimplente,Maio
+Rafael 201,Mercado Pago,"12128,01",Pago,Abril
+Diego 202,Caixa,"10327,58",Pago,Março
+Ana 203,XP Investimentos,"9871,94",Pago,Agosto
+Maria 204,Mercado Pago,"5790,49",Pago,Maio
+Camila 205,BTG Pactual,"6524,79",Pago,Junho
+Larissa 206,C6 Bank,"13745,56",Inadimplente,Maio
+Felipe 207,Caixa,"11325,11",Pago,Fevereiro
+Amanda 208,Itaú,"2540,98",Inadimplente,Julho
+Roberto 209,Bradesco,"1809,39",Pago,Maio
+Roberto 210,Itaú,"7094,4",Pago,Maio
+Aline 211,Inter,"12425,05",Inadimplente,Fevereiro
+Rafael 212,Banco do Brasil,"862,86",Inadimplente,Junho
+Diego 213,PicPay,"9890,96",Pago,Agosto
+Bruno 214,XP Investimentos,"6420,29",Pago,Janeiro
+Bruno 215,Banco do Brasil,"2183,75",Pago,Março
+Patrícia 216,Banco do Brasil,"5879,67",Inadimplente,Julho
+Aline 217,BTG Pactual,"11035,69",Inadimplente,Fevereiro
+Felipe 218,Mercado Pago,"6417,68",Inadimplente,Janeiro
+Ricardo 219,PicPay,"6929,05",Inadimplente,Junho
+Ana 220,XP Investimentos,"5826,36",Inadimplente,Junho
+Maria 221,Inter,"4500,28",Inadimplente,Agosto
+Carlos 222,XP Investimentos,"3575,53",Pago,Janeiro
+Maria 223,Bradesco,"4031,75",Pago,Abril
+Carlos 224,C6 Bank,"3503,78",Pago,Abril
+Camila 225,Santander,"11935,33",Pago,Maio
+Pedro 226,Santander,"8333,12",Inadimplente,Fevereiro
+João 227,Santander,"715,47",Inadimplente,Abril
+Aline 228,Bradesco,"728,83",Pago,Março
+Gustavo 229,C6 Bank,"2147,91",Pago,Agosto
+Ricardo 230,C6 Bank,"9108,16",Pago,Abril
+Diego 231,Nubank,"11045,02",Inadimplente,Maio
+Amanda 232,XP Investimentos,"14478,38",Pago,Agosto
+Patrícia 233,Inter,"10448,41",Pago,Agosto
+Carlos 234,Itaú,"5170,62",Pago,Março
+Juliana 235,Mercado Pago,"9679,61",Pago,Junho
+Patrícia 236,Mercado Pago,"8193,07",Pago,Julho
+Ana 237,BTG Pactual,2159,Pago,Abril
+Gustavo 238,Banco do Brasil,"13377,32",Pago,Agosto
+Patrícia 239,Inter,"11079,38",Pago,Junho
+Juliana 240,Bradesco,"14327,09",Pago,Agosto
+Carlos 241,Itaú,"12560,69",Pago,Fevereiro
+Ricardo 242,Santander,"8567,38",Pago,Junho
+Ana 243,Inter,"5627,17",Pago,Julho
+Maria 244,Caixa,"9205,95",Pago,Abril
+Pedro 245,XP Investimentos,"7491,75",Inadimplente,Junho
+Roberto 246,Bradesco,"2165,84",Pago,Abril
+Gustavo 247,C6 Bank,"14630,93",Inadimplente,Janeiro
+Diego 248,XP Investimentos,"12527,18",Pago,Março
+Juliana 249,BTG Pactual,"11554,94",Inadimplente,Junho
+João 250,Santander,"13113,01",Pago,Julho
+Carlos 251,Santander,"11244,05",Inadimplente,Fevereiro
+Larissa 252,PicPay,"5954,82",Pago,Março
+Ricardo 253,Caixa,"10963,14",Inadimplente,Fevereiro
+Maria 254,Santander,"2782,44",Pago,Fevereiro
+Juliana 255,Banco do Brasil,"10098,11",Pago,Agosto
+Gustavo 256,Caixa,"3625,75",Pago,Junho
+Gustavo 257,Itaú,"4607,07",Pago,Agosto
+Larissa 258,XP Investimentos,"4972,08",Pago,Janeiro
+João 259,PicPay,"4870,58",Pago,Março
+Juliana 260,Caixa,"5257,77",Pago,Julho
+Lucas 261,Santander,"6013,01",Pago,Junho
+Carlos 262,Inter,"12995,58",Pago,Janeiro
+Amanda 263,Itaú,"13000,6",Pago,Julho
+Gustavo 264,Caixa,"2170,01",Pago,Junho
+Lucas 265,Mercado Pago,"7171,41",Pago,Junho
+Carlos 266,Inter,"12745,02",Pago,Julho
+Larissa 267,Itaú,"6238,62",Pago,Junho
+Rafael 268,Bradesco,"11797,21",Pago,Fevereiro
+Larissa 269,C6 Bank,"3311,6",Inadimplente,Junho
+Pedro 270,PicPay,"1990,67",Pago,Março
+Diego 271,Santander,"11523,12",Pago,Março
+Felipe 272,Banco do Brasil,"11439,46",Inadimplente,Agosto
+Aline 273,XP Investimentos,"9711,83",Pago,Junho
+Pedro 274,Banco do Brasil,"1490,15",Pago,Maio
+Juliana 275,Mercado Pago,"1314,5",Pago,Maio
+Amanda 276,Banco do Brasil,"1045,31",Pago,Maio
+Carlos 277,XP Investimentos,"13031,63",Inadimplente,Julho
+Amanda 278,Mercado Pago,"8537,59",Inadimplente,Janeiro
+Amanda 279,Mercado Pago,"9951,64",Pago,Agosto
+Larissa 280,Santander,"14386,97",Pago,Junho
+Carlos 281,C6 Bank,"9868,84",Pago,Agosto
+Amanda 282,C6 Bank,"8079,85",Pago,Junho
+Bruno 283,Inter,"6427,16",Pago,Janeiro
+Camila 284,Itaú,"5280,52",Pago,Julho
+Bruno 285,Caixa,"10994,14",Pago,Março
+Camila 286,Itaú,"8949,72",Pago,Junho
+Bruno 287,XP Investimentos,"10627,96",Pago,Fevereiro
+Bruno 288,C6 Bank,"5961,85",Inadimplente,Março
+Larissa 289,Itaú,"9867,36",Pago,Junho
+João 290,Bradesco,"4978,56",Inadimplente,Junho
+Felipe 291,PicPay,"3784,87",Pago,Fevereiro
+Bruno 292,Itaú,"7861,5",Pago,Janeiro
+Camila 293,Mercado Pago,"2400,21",Pago,Março
+Lucas 294,BTG Pactual,"11680,92",Inadimplente,Março
+Amanda 295,Nubank,"6457,45",Pago,Abril
+Amanda 296,Mercado Pago,"4631,46",Pago,Agosto
+Rafael 297,C6 Bank,"3967,94",Inadimplente,Agosto
+Fernanda 298,Bradesco,"10335,45",Pago,Agosto
+Amanda 299,Caixa,"11782,8",Pago,Julho
+Lucas 300,PicPay,"12118,26",Pago,Maio
